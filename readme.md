@@ -29,7 +29,6 @@ After exceuting python project.py we can access the restaurant menu application 
   ###Templates: This folder contains only HTML files, which are responsible for showing te particular web page at particular operation like                 editing,deleting and adding items
 
 ###Some websites which are helpful for working on this project:
-
 sqlalchemy
 vagrant_errors
 stackoverflow
