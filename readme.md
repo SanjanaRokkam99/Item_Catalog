@@ -10,12 +10,16 @@ Here's a link to download vagrant
 
 ### After downloading both vagrant and virtual box
 
- 1.Clone the fullstack-nanodegree-vm
- 2.Open a terminal and change your directory to /FSND-Virtual-Machine/vagrant using cd. 
+  1.Clone the fullstack-nanodegree-vm
+ 
+  2.Open a terminal and change your directory to /FSND-Virtual-Machine/vagrant using cd. 
+ 
  3.And start using these commands *vagrant up(This will downlaod the desired os image and
   install it the downlaod will be taken place once and after that this command will always be used to open the virtual box) *vagrant ssh (This will   start our virtual machine) 
- 4.Make sure on changing the directory to /vagrant(The place in which the files can be accesed by both host and virtual machine) 
- 5.After that create   your own folder for the project i created menu_item and change the directory to it.
+  
+ 4.Make sure on changing the directory to /vagrant(The place in which the files can be accesed by both host and virtual machine)
+ 
+  5.After that create   your own folder for the project i created menu_item and change the directory to it.
 ### How to work on this project:
 
 Create a database using sql alchemy and save it as databasesetup.py and run it.
