@@ -14,8 +14,8 @@ Here's a link to download vagrant
  
   2.Open a terminal and change your directory to /FSND-Virtual-Machine/vagrant using cd. 
  
- 3.And start using these commands *vagrant up(This will downlaod the desired os image and
-  install it the downlaod will be taken place once and after that this command will always be used to open the virtual box) *vagrant ssh (This will   start our virtual machine) 
+ 3.And start using these commands *vagrant up(This will download the desired os image and
+  install it the download will be taken place once and after that this command will always be used to open the virtual box) *vagrant ssh (This will   start our virtual machine) 
   
  4.Make sure on changing the directory to /vagrant(The place in which the files can be accesed by both host and virtual machine)
  
@@ -30,7 +30,7 @@ After exceuting python project.py we can access the restaurant menu application 
 6.That's how we created and use the menu app.
   ### Static: This folder consists of website styling files written in javascript, CSS and some pictures related to our website.
 
-  ### Templates: This folder contains only HTML files, which are responsible for showing te particular web page at particular operation like                 editing,deleting and adding items
+  ### Templates: This folder contains only HTML files, which are responsible for showing the particular web page at particular operation like                 editing,deleting and adding items
 
 ### Some websites which are helpful for working on this project:
 sqlalchemy
